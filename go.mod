@@ -1,4 +1,4 @@
-module github.com/tevino/tcp-shaker
+module github.com/Jarnpher553/tcp-shaker
 
 go 1.13
 

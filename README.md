@@ -59,7 +59,7 @@ The reason for a fake implementation is that there is currently no way to perfor
 ## Usage
 
 ```go
-import "github.com/tevino/tcp-shaker"
+import "github.com/Jarnpher553/tcp-shaker"
 
 // Initializing the checker
 // It is expected to be shared among goroutines, only one instance is necessary.

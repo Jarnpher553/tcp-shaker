@@ -12,7 +12,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	tcp "github.com/tevino/tcp-shaker"
+	tcp "github.com/Jarnpher553/tcp-shaker"
 )
 
 // Counter is an atomic counter for multiple metrics.
